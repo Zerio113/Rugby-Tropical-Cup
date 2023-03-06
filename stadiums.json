@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ajinomoto Stad",
+        "location": "Tokyo"
+    },
+    {
+        "id": 2,
+        "name": "Toyota Stad",
+        "location": "Toyota"
+    },
+    {
+        "id": 3,
+        "name": "Noevir Stad Kobe",
+        "location": "Kobe"
+    },
+    {
+        "id": 4,
+        "name": "Best Denki Stad",
+        "location": "Fukuoka"
+    }
+]

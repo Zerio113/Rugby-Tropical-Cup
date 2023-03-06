@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "stadium_id": 1,
+        "team_home": "Angleterre",
+        "team_away": "Fidji",
+        "start": "2023-07-12T19:30:00+12:00"
+    },
+    {
+        "id": 2,
+        "stadium_id": 1,
+        "team_home": "Japon",
+        "team_away": "Samora",
+        "start": "2023-07-13T19:30:00+12:00"
+    },
+    {
+        "id": 3,
+        "stadium_id": 2,
+        "team_home": "Australie",
+        "team_away": "Tonga",
+        "start": "2023-07-14T19:00:00+12:00"
+    },
+    {
+        "id": 4,
+        "stadium_id": 2,
+        "team_home": "Nouvelle-Zélande",
+        "team_away": "Afrique du Sud",
+        "start": "2023-07-15T19:30:00+12:00"
+    },
+    {
+        "id": 5,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Quart A",
+        "team_away": "Vainqueur Quart B",
+        "start": "2023-07-18T19:30:00+12:00"
+    },
+    {
+        "id": 6,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Quart C",
+        "team_away": "Vainqueur Quart D",
+        "start": "2023-07-20T19:30:00+12:00"
+    },
+    {
+        "id": 7,
+        "stadium_id": 3,
+        "team_home": "Perdant Demi A",
+        "team_away": "Perdant Demi B",
+        "start": "2023-07-22T18:30:00+12:00"
+    },
+    {
+        "id": 8,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2023-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 9,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 10,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 11,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 12,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 13,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 14,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 15,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 16,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 17,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    },
+    {
+        "id": 18,
+        "stadium_id": 4,
+        "team_home": "Vainqueur Demi A",
+        "team_away": "Vainqueur Demi B",
+        "start": "2024-07-22T20:00:00+12:00"
+    }
+]
